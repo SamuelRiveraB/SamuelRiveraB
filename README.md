@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a Full Stack Developer focused on improving
+Hello, I'm Samuel, a Full Stack developer, but most important, an avid learner and passionate about expanding my knowledge and skillset.
+
+With a focus on Javascript, NodeJS and React(NextJS), I am capable of building, deploying and maintaining Full Stack applications with the utmost detail and care put into them.
+If you are reading this and want to collaborate or you have a job offer feel free to reach out, my socials are bellow the Skills section.
 
 * 🌍  I'm based in Medellín, Colombia
 * 🖥️  See my portfolio at [Samuel](http://portfoliov2-sage.vercel.app/)
