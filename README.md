@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 =======================================
 
-Hello, I'm Samuel, a Full Stack developer, but most important, an avid learner and passionate about expanding my knowledge and skillset.
+Hello, I'm Samuel, a Fullstack developer, but most important, an avid learner and passionate about expanding my knowledge and skillset.
 
 With a focus on the JS stack (Javascript, Typescript, React, NextJS, NodeJS), I am capable of building, deploying and maintaining Full Stack applications with the utmost detail and care put into them.
 If you are reading this and want to collaborate or you have a job offer feel free to reach out, my socials are below the Skills section.
