@@ -10,7 +10,7 @@ If you are reading this and want to collaborate or you have a job offer feel fre
 * 🖥️  See my portfolio at [Samuel](http://portfoliov2-sage.vercel.app/)
 * ✉️  You can contact me at [samuelrivba@gmail.com](mailto:samuelrivba@gmail.com)
 * 🧠  I'm learning NextJS, NodeJS (further), Typescript
-* 🤝  I'm open to collaborating on React, NodeJS, Javascript projects
+* 🤝  I'm open to collaborating on React, NodeJS, Javascript, Typescript projects
 
 ### Skills
 
